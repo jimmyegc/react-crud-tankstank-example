@@ -1,4 +1,3 @@
-import './App.css'
 import DataTable from './components/DataTable/DataTable'
 import { FileViewer } from './components/FileViewer/FileViewer';
 import { FileItem } from './types/FileViewer';
